@@ -5,6 +5,8 @@
 //  Created by skottiejay on 9/3/18.
 //  Copyright © 2018 skottiejay. All rights reserved.
 //
+// This is an old tut so probably need to figure out outlets and such
+
 
 import UIKit
 

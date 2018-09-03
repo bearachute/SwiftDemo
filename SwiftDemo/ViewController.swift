@@ -23,6 +23,8 @@ class ViewController: UIViewController {
         formatter.dateFormat = "yyyy-MM-dd" // setting date format
         let result = formatter.string(from: date)
         self.label.text = result
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
